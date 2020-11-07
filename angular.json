@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shahosoft"
+    }
+  },
+  "defaultProject": "shahosoft",
+  "cli": {
+    "analytics": "4529122e-94fe-48b7-b7f5-3acac96fa5b6"
+  }
 }
